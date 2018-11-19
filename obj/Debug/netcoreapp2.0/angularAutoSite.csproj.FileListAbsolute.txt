@@ -1,0 +1,11 @@
+C:\Users\mdchf\Desktop\My Sites\angularAuto Site\angularAutoSite\bin\Debug\netcoreapp2.0\angularAutoSite.deps.json
+C:\Users\mdchf\Desktop\My Sites\angularAuto Site\angularAutoSite\bin\Debug\netcoreapp2.0\angularAutoSite.runtimeconfig.json
+C:\Users\mdchf\Desktop\My Sites\angularAuto Site\angularAutoSite\bin\Debug\netcoreapp2.0\angularAutoSite.runtimeconfig.dev.json
+C:\Users\mdchf\Desktop\My Sites\angularAuto Site\angularAutoSite\bin\Debug\netcoreapp2.0\angularAutoSite.dll
+C:\Users\mdchf\Desktop\My Sites\angularAuto Site\angularAutoSite\bin\Debug\netcoreapp2.0\angularAutoSite.pdb
+C:\Users\mdchf\Desktop\My Sites\angularAuto Site\angularAutoSite\obj\Debug\netcoreapp2.0\angularAutoSite.csprojAssemblyReference.cache
+C:\Users\mdchf\Desktop\My Sites\angularAuto Site\angularAutoSite\obj\Debug\netcoreapp2.0\angularAutoSite.csproj.CoreCompileInputs.cache
+C:\Users\mdchf\Desktop\My Sites\angularAuto Site\angularAutoSite\obj\Debug\netcoreapp2.0\angularAutoSite.AssemblyInfoInputs.cache
+C:\Users\mdchf\Desktop\My Sites\angularAuto Site\angularAutoSite\obj\Debug\netcoreapp2.0\angularAutoSite.AssemblyInfo.cs
+C:\Users\mdchf\Desktop\My Sites\angularAuto Site\angularAutoSite\obj\Debug\netcoreapp2.0\angularAutoSite.dll
+C:\Users\mdchf\Desktop\My Sites\angularAuto Site\angularAutoSite\obj\Debug\netcoreapp2.0\angularAutoSite.pdb
